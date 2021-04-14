@@ -1,0 +1,2 @@
+Zadanie3.4
+Używanie klasy ArrayList może powodować problemy wydajnościowe w języku C# ze wzglęu na potrzebę kopiowania danych z istniejącej tablicy, na której zbudowana jest lista do nowej tablicy w przypadku, w którym nie ma już wolnych kolejnych komórek pamięci dla istniejącej tablicy. W przypadku takim cała tablica na której zbudowana jest lista musi zostać przepisana do nowego miejsca w pamięci.
